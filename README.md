@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceSpider40
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Unity, C#
+- 🌱 I’m currently learning Unreal, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
